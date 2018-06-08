@@ -1,0 +1,20 @@
+.jumbotron {
+    background:url('../images/nfl-banner.png');
+    color: rgb(0, 7, 4);
+    text-align: left;
+    font-weight: bold;
+}
+
+.team {
+    font-size: 27px;
+}
+
+.game {
+    padding: 0 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-color: rgb(2, 2, 15);
+    color: yellow;
+}
